@@ -1,0 +1,124 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Harry porter",
+      "rating": 8.9,
+      "releaseDate": "13-12-2000"
+    },
+    {
+      "id": 2,
+      "title": "Avengers",
+      "rating": 8.9,
+      "releaseDate": "16-06-2018"
+    },
+    {
+      "id": 3,
+      "title": "Avengers: infinity war",
+      "rating": 9,
+      "releaseDate": "10-10-2021"
+    },
+    {
+      "id": 4,
+      "title": "Avengers: altron",
+      "rating": 8.6,
+      "releaseDate": "16-06-2015"
+    },
+    {
+      "id": 5,
+      "title": "War of arrows",
+      "rating": 7.9,
+      "releaseDate": "12-14-2015"
+    },
+    {
+      "id": 6,
+      "title": "Mission Impossible",
+      "rating": 8,
+      "releaseDate": "05-10-2018"
+    },
+    {
+      "id": 7,
+      "title": "Edge of tomorrow",
+      "rating": 8.9,
+      "releaseDate": "15-10-2016"
+    },
+    {
+      "id": 8,
+      "title": "Spider-man",
+      "rating": 7.8,
+      "releaseDate": "02-10-2021"
+    },
+    {
+      "id": 9,
+      "title": "Batman",
+      "rating": 9.4,
+      "releaseDate": "10-06-2022"
+    },
+    {
+      "id": 10,
+      "title": "Jason Bourn",
+      "rating": 9.2,
+      "releaseDate": "11-07-2011"
+    },
+    {
+      "id": 11,
+      "title": "2012",
+      "rating": 9,
+      "releaseDate": "10-10-2012"
+    },
+    {
+      "id": 12,
+      "title": "Avengers: end game",
+      "rating": 8,
+      "releaseDate": "08-10-2020"
+    },
+    {
+      "id": 13,
+      "title": "Wolf of the Wall street",
+      "rating": 9,
+      "releaseDate": "04-12-2015"
+    },
+    {
+      "id": 14,
+      "title": "Tumbaad",
+      "rating": 9.5,
+      "releaseDate": "22-10-2017"
+    },
+    {
+      "id": 15,
+      "title": "Lone Ranger",
+      "rating": 9.6,
+      "releaseDate": "08-10-2014"
+    },
+    {
+      "id": 16,
+      "title": "Raid",
+      "rating": 8.7,
+      "releaseDate": "27-01-2013"
+    },
+    {
+      "id": 17,
+      "title": "Man of Steel",
+      "rating": 9.3,
+      "releaseDate": "08-05-2014"
+    },
+    {
+      "id": 18,
+      "title": "Aquaman",
+      "rating": 8.9,
+      "releaseDate": "16-07-2020"
+    },
+    {
+      "id": 19,
+      "title": "Titanic",
+      "rating": 8.5,
+      "releaseDate": "28-03-2021"
+    },
+    {
+      "id": 20,
+      "title": "Star Track",
+      "rating": 6.2,
+      "releaseDate": "18-04-2017"
+    }
+  ]
+}
